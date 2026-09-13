@@ -1,0 +1,9 @@
+{
+  "name": "neon-blog",
+  "version": "1.0.0",
+  "description": "Светлый неоновый блог для Vercel",
+  "main": "api/index.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
